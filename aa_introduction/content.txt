@@ -1,0 +1,21 @@
+Path:
+
+    Step 1: Learn a Language.
+
+    Step 2: Learn Data Structures and Algorithms.
+
+    Step 3: Preparation.
+
+Pre-requisites:
+
+    Laptop + Internet.
+
+    Install Java + Code Editor.
+
+    Notebook + Pen.
+
+What to Install:
+
+    Code Editor (Visual Studio Code).
+
+    Java Development Kit.
