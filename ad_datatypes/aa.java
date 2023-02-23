@@ -1,4 +1,4 @@
-public class App {
+public class aa {
     public static void main(String[] args) throws Exception {
         byte num = 8;
         System.out.println(num);
