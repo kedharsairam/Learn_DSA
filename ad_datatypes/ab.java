@@ -12,7 +12,7 @@ public class ab {
         // int number = sc.nextInt();
         // System.out.println(number);
 
-        float price = sc.nextFloat();
-        System.out.println(price);
+        // float price = sc.nextFloat();
+        // System.out.println(price);
     }
 }

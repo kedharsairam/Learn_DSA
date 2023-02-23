@@ -4,10 +4,10 @@ public class aa {
         System.out.print("Hello, World!\n");
         System.out.println("Hello, World!");
 
-        System.out.println("****");
-        System.out.println("***");
-        System.out.println("**");
-        System.out.println("*");
+        // System.out.println("****");
+        // System.out.println("***");
+        // System.out.println("**");
+        // System.out.println("*");
 
         int a = 10;
         int b = 5;
