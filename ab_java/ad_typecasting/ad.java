@@ -1,4 +1,4 @@
-package ad_typecasting;
+package ab_java.ad_typecasting;
 
 public class ad {
     public static void main(String args[]){
