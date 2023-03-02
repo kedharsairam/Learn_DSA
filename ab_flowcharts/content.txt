@@ -1,3 +1,0 @@
-Flowcharts:
-
-    Diagrams to represent solutions of problems.
