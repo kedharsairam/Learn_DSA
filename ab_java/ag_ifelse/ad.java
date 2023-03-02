@@ -1,4 +1,4 @@
-package ag_ifelse;
+package ab_java.ag_ifelse;
 
 public class ad {
     public static void main(String args[]){
