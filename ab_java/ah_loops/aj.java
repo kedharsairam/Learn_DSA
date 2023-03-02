@@ -1,4 +1,4 @@
-package ah_loops;
+package ab_java.ah_loops;
 
 public class aj {
     public static void main(String args[]){
