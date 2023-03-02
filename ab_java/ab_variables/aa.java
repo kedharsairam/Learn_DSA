@@ -1,4 +1,4 @@
-package ab_variables;
+package ab_java.ab_variables;
 
 public class aa {
     public static void main(String args[]){
