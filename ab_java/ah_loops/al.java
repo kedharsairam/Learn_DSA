@@ -1,4 +1,4 @@
-package ah_loops;
+package ab_java.ah_loops;
 
 import java.util.Scanner;
 
